@@ -28,7 +28,10 @@ function App() {
               <div class="col-lg-12">
                 <nav class="navbar navbar-expand-lg">
                   <a class="navbar-brand" href="#">
-                    <img src="assets/img/logo/logo.svg" alt="Logo" />
+                    <img
+                      src="https://cdn.worldvectorlogo.com/logos/postmates-1.svg"
+                      alt="Logo"
+                    />
                   </a>
                   <button
                     class="navbar-toggler"
@@ -81,6 +84,7 @@ function App() {
           </div>
         </div>
       </header>
+      {/* HOME */}
       <section id="home" class="hero-section">
         <div class="hero-shape">
           <img src="assets/img/hero/hero-shape.svg" alt="" class="shape" />
@@ -98,7 +102,7 @@ function App() {
                   aliquyam erat, sed diam voluptua.
                 </p>
                 <a
-                  href="javascript:void(0)"
+                  href="https://apps.apple.com/us/app/postmates-fast-delivery/id512393983"
                   class="main-btn btn-hover wow fadeInUp"
                   data-wow-delay=".6s"
                 >
@@ -295,7 +299,7 @@ function App() {
                     magna aliquyam erat, sed diam voluptua.
                   </p>
                   <a
-                    href="javscript:void(0)"
+                    href="https://apps.apple.com/us/app/postmates-fast-delivery/id512393983"
                     class="main-btn btn-hover wow fadeInUp"
                     data-wow-delay=".8s"
                   >
@@ -566,12 +570,13 @@ function App() {
             <div class="col-lg-3 col-md-6">
               <div class="footer-widget wow fadeInUp" data-wow-delay=".2s">
                 <div class="logo">
-                  <a href="#">
+                  <a href="https://apps.apple.com/us/app/postmates-fast-delivery/id512393983">
                     <img src="assets/img/logo/logo-2.svg" alt="logo" />
                   </a>
                 </div>
+
                 <div class="download-btns">
-                  <a href="javascript:void(0)">
+                  <a href="https://apps.apple.com/us/app/postmates-fast-delivery/id512393983">
                     <span class="icon">
                       <i class="lni lni-apple"></i>
                     </span>
@@ -579,7 +584,8 @@ function App() {
                       Download on the <b>App Store</b>{" "}
                     </span>
                   </a>
-                  <a href="javascript:void(0)">
+
+                  <a href="https://play.google.com/store/apps/details?id=com.postmates.android&hl=en_US&gl=US">
                     <span class="icon">
                       <i class="lni lni-play-store"></i>
                     </span>
